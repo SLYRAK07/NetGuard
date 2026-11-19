@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="NetGuard.Core/NetGuard.Core.csproj" />
+  <Project Path="NetGuard.Infrastructure/NetGuard.Infrastructure.csproj" />
+  <Project Path="NetGuard/NetGuard.API.csproj" />
+</Solution>

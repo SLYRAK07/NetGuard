@@ -1,0 +1,6 @@
+@NetGuard_HostAddress = http://localhost:5002
+
+GET {{NetGuard_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
